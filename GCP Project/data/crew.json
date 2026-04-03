@@ -1,0 +1,522 @@
+[
+    {
+        "movie_id": 1,
+        "crew": [
+            {
+                "crew_id": 201,
+                "name": "Nina Lens",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 202,
+                "name": "Jean Moreau",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 203,
+                "name": "Rick Banner",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 2,
+        "crew": [
+            {
+                "crew_id": 204,
+                "name": "Elon Sparks",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 205,
+                "name": "Lily Laughs",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 203,
+                "name": "Rick Banner",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 3,
+        "crew": [
+            {
+                "crew_id": 207,
+                "name": "Dr. Quantum",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 202,
+                "name": "Jean Moreau",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 206,
+                "name": "Omar Mirage",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 4,
+        "crew": [
+            {
+                "crew_id": 204,
+                "name": "Elon Sparks",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 208,
+                "name": "Clara Sonata",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 209,
+                "name": "Eden Bloom",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Female"
+            }
+        ]
+    },
+    {
+        "movie_id": 5,
+        "crew": [
+            {
+                "crew_id": 210,
+                "name": "Lexi Neon",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 205,
+                "name": "Lily Laughs",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 211,
+                "name": "Victor Red",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 6,
+        "crew": [
+            {
+                "crew_id": 207,
+                "name": "Dr. Quantum",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 212,
+                "name": "Anna Vow",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 206,
+                "name": "Omar Mirage",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 7,
+        "crew": [
+            {
+                "crew_id": 213,
+                "name": "Zero Byte",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 202,
+                "name": "Jean Moreau",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 209,
+                "name": "Eden Bloom",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Female"
+            }
+        ]
+    },
+    {
+        "movie_id": 8,
+        "crew": [
+            {
+                "crew_id": 210,
+                "name": "Lexi Neon",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 214,
+                "name": "Aria Velvet",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 211,
+                "name": "Victor Red",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 9,
+        "crew": [
+            {
+                "crew_id": 213,
+                "name": "Zero Byte",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 212,
+                "name": "Anna Vow",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 203,
+                "name": "Rick Banner",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 10,
+        "crew": [
+            {
+                "crew_id": 201,
+                "name": "Nina Lens",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 214,
+                "name": "Aria Velvet",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 206,
+                "name": "Omar Mirage",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 11,
+        "crew": [
+            {
+                "crew_id": 204,
+                "name": "Elon Sparks",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 205,
+                "name": "Lily Laughs",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 211,
+                "name": "Victor Red",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 12,
+        "crew": [
+            {
+                "crew_id": 207,
+                "name": "Dr. Quantum",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 208,
+                "name": "Clara Sonata",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 209,
+                "name": "Eden Bloom",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Female"
+            }
+        ]
+    },
+    {
+        "movie_id": 13,
+        "crew": [
+            {
+                "crew_id": 213,
+                "name": "Zero Byte",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 212,
+                "name": "Anna Vow",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 203,
+                "name": "Rick Banner",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 14,
+        "crew": [
+            {
+                "crew_id": 210,
+                "name": "Lexi Neon",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 214,
+                "name": "Aria Velvet",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 206,
+                "name": "Omar Mirage",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 15,
+        "crew": [
+            {
+                "crew_id": 201,
+                "name": "Nina Lens",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 205,
+                "name": "Lily Laughs",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 209,
+                "name": "Eden Bloom",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Female"
+            }
+        ]
+    },
+    {
+        "movie_id": 16,
+        "crew": [
+            {
+                "crew_id": 204,
+                "name": "Elon Sparks",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 212,
+                "name": "Anna Vow",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 211,
+                "name": "Victor Red",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 17,
+        "crew": [
+            {
+                "crew_id": 217,
+                "name": "Kratos Titan",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 214,
+                "name": "Aria Velvet",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 209,
+                "name": "Eden Bloom",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Female"
+            }
+        ]
+    },
+    {
+        "movie_id": 18,
+        "crew": [
+            {
+                "crew_id": 204,
+                "name": "Elon Sparks",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 212,
+                "name": "Anna Vow",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 211,
+                "name": "Victor Red",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 19,
+        "crew": [
+            {
+                "crew_id": 213,
+                "name": "Zero Byte",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Male"
+            },
+            {
+                "crew_id": 205,
+                "name": "Lily Laughs",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 206,
+                "name": "Omar Mirage",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "movie_id": 20,
+        "crew": [
+            {
+                "crew_id": 201,
+                "name": "Nina Lens",
+                "department": "Directing",
+                "job": "Director",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 220,
+                "name": "Luna Dream",
+                "department": "Writing",
+                "job": "Writer",
+                "gender": "Female"
+            },
+            {
+                "crew_id": 203,
+                "name": "Rick Banner",
+                "department": "Production",
+                "job": "Producer",
+                "gender": "Male"
+            }
+        ]
+    }
+]

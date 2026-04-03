@@ -1,0 +1,22 @@
+[
+  {"movie_id": 1, "genres": [{"genre_id": 1, "genre_name": "Sci-Fi"}, {"genre_id": 2, "genre_name": "Action"}]},
+  {"movie_id": 2, "genres": [{"genre_id": 3, "genre_name": "Romance"}, {"genre_id": 4, "genre_name": "Drama"}]},
+  {"movie_id": 3, "genres": [{"genre_id": 2, "genre_name": "Action"}, {"genre_id": 4, "genre_name": "Drama"}]},
+  {"movie_id": 4, "genres": [{"genre_id": 1, "genre_name": "Sci-Fi"}, {"genre_id": 5, "genre_name": "Thriller"}]},
+  {"movie_id": 5, "genres": [{"genre_id": 6, "genre_name": "Comedy"}]},
+  {"movie_id": 6, "genres": [{"genre_id": 4, "genre_name": "Drama"}]},
+  {"movie_id": 7, "genres": [{"genre_id": 1, "genre_name": "Sci-Fi"}]},
+  {"movie_id": 8, "genres": [{"genre_id": 4, "genre_name": "Drama"}, {"genre_id": 7, "genre_name": "Music"}]},
+  {"movie_id": 9, "genres": [{"genre_id": 4, "genre_name": "Drama"}]},
+  {"movie_id": 10, "genres": []},
+  {"movie_id": 11, "genres": [{"genre_id": 2, "genre_name": "Action"}]},
+  {"movie_id": 12, "genres": [{"genre_id": 3, "genre_name": "Romance"}, {"genre_id": 4, "genre_name": "Drama"}]},
+  {"movie_id": 13, "genres": [{"genre_id": 1, "genre_name": "Sci-Fi"}, {"genre_id": 5, "genre_name": "Thriller"}]},
+  {"movie_id": 14, "genres": [{"genre_id": 4, "genre_name": "Drama"}]},
+  {"movie_id": 15, "genres": [{"genre_id": 2, "genre_name": "Action"}]},
+  {"movie_id": 16, "genres": []},
+  {"movie_id": 17, "genres": [{"genre_id": 1, "genre_name": "Sci-Fi"}, {"genre_id": 2, "genre_name": "Action"}]},
+  {"movie_id": 18, "genres": [{"genre_id": 5, "genre_name": "Thriller"}]},
+  {"movie_id": 19, "genres": [{"genre_id": 2, "genre_name": "Action"}]},
+  {"movie_id": 20, "genres": [{"genre_id": 3, "genre_name": "Romance"}, {"genre_id": 6, "genre_name": "Comedy"}]}
+]
