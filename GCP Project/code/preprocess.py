@@ -266,17 +266,23 @@ def extract_director(crew_str):
 def save_results_to_bigquery(results):
     client = bigquery.Client(project=PROJECT_ID)
 
-    print("Saving results to BigQuery...")
-
     for table_name, df in results.items():
         table_id = f"{PROJECT_ID}.{OUTPUT_DATASET_ID}.{table_name}"
 
         job_config = bigquery.LoadJobConfig(
             write_disposition=bigquery.WriteDisposition.WRITE_TRUNCATE,
             autodetect=True,
+            source_format=bigquery.SourceFormat.CSV,
         )
 
-        job = client.load_table_from_dataframe(df, table_id, job_config=job_config)
+        # Convert to CSV in memory instead of using pyarrow
+        csv_data = df.to_csv(index=False)
+
+        job = client.load_table_from_file(
+            io.StringIO(csv_data),
+            table_id,
+            job_config=job_config
+        )
         job.result()
 
-        print(f"Saved: {table_name} → {table_id} ({len(df)} rows)")
+        print(f"✅ Saved: {table_name} → {table_id} ({len(df)} rows)")
