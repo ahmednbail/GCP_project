@@ -28,7 +28,7 @@ from google.cloud import storage, bigquery
 # ============================================
 PROJECT_ID = "project-dc54b7ee-7ed4-4dda-8a0"
 BUCKET_NAME = "gcp_projec"
-DATASET_ID = "project-dc54b7ee-7ed4-4dda-8a0.movies_raw_data"
+DATASET_ID = "movies_raw_data"
 
 # Local file paths in Cloud Shell
 JSON_FILES = [
